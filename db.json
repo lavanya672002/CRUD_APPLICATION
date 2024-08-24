@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode",
+      "id": "3033"
+    }
+  ],
+  "employee": [
+    {
+      "id": "9b3a",
+      "firstName": "lavanya",
+      "lastName": "s",
+      "email": "lavanyalavuu601@gmail.com",
+      "dob": "2024-08-07T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "airsme",
+      "experience": 3,
+      "package": 12
+    }
+  ]
+}
